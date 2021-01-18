@@ -1,0 +1,2 @@
+Java 8
+https://www.openlogic.com/openjdk-downloads
